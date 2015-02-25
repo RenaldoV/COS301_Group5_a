@@ -1,0 +1,35 @@
+USE CASE PRIORIZATION
+
+1.1.Close/Hide Threads	- Critical
+1.2.Customize		- Critical
+
+
+USE CASE PRE AND POST CONDITIONS
+
+
+1.1.Close/hide Threads
+ 
+	pre.Conditions
+
+	
+	User must registered and logged in
+	User must have permission to perfom this based on status
+
+	post.Conditions
+
+	
+	Threads must be hidden/closed
+
+1.2.Customize
+
+	pre.Conditions
+
+
+	User must registered and logged in
+	User must have permission to perfom this based on status
+
+	
+	post.Conditions
+
+
+	Threads must be moved around/rearranged
