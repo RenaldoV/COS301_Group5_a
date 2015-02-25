@@ -1,0 +1,12 @@
+5.1: Use case Prioritization
+	Important - Keep track of who has read what and highlight unread messages for each user.
+	Important - Enhancement of the post editor for example text formatting and automatic pretty printing of code in posts. New users may use plain text only, advanced users may use bold, underline, smileys etc.
+
+5.2: Use case/Services contracts
+	Post Formatting
+		Pre-Conditions: High enough rank
+		Post-Conditions: Text is customized in post
+
+	Read Tracking
+		Pre-Conditions: User must be loged in and have an active account
+		Post-Conditions: System must keep track of what the user did  not read yet.
