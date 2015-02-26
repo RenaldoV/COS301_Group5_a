@@ -61,8 +61,11 @@ This document discusses the application functionality required by users (and oth
 \section{Important}
 1.1.1 Archive post\\
 2.1 Direct messages\\
+3.1 The system to have a structure of some sort\\
 \section{Nice-To-Have}
 3.1 View visualized statistical information\\
+2.1{a} The user to choose their own structure\\
+2.1{b} Making use of tags\\
 \chapter{Use case/Services contracts}
 \NumTabs{18}
 \section{Pre-Conditions}								%PRE CONDITIONS
@@ -84,7 +87,8 @@ This document discusses the application functionality required by users (and oth
 4.1\tab{b}) Check word count of post before posting\\
 5.1\tab{a}) Check user status level before commenting\\
 5.1\tab{b}) Check word count of post before commenting\\
-\section{Post-Conditions}								%PRE CONDITIONS	
+6.1\tab{a}) Users must be registered to be able to view content/posts according to their own structure\\
+\section{Post-Conditions}								%POST CONDITIONS	
 1.1\tab{a) Post will not exist in database}\\
 1.1\tab{b)Post will not be visible to users}\\
 1.1.1\tab{a)Post and log data will reside in an archive}\\
@@ -95,12 +99,16 @@ This document discusses the application functionality required by users (and oth
 2.1\tab{a} A direct message is sent by user and recieved by recipients\\
 3.1\tab{a} User views visualized statistical information\\
 4.1\tab{a}) Comment should be visible to all users of that level\\
+5.1\tab{a}) Posts should be organised according to tags\\
+5.1\tab{b}) Registered users should be able to choose the structure in which to view tags\\
 \section{Request and Results Data Structures} 
 \includegraphics[scale=.4]{DataStructuresCRUD.eps}
+\includegraphics[scale=.4]{Semaka_Class_Diagram.eps}
 \chapter{Required functionality} 							% Use Case Diagram
 \includegraphics[scale=.9]{CRUDUSECASE.eps}\\
 \includegraphics[scale=.9]{seanUC.eps}\\
 \includegraphics[scale=.9]{Shaun_functionalRequirements.eps}\\
+\includegraphics[scale=.9]{Semaka_Use_Case.eps}\\
 \chapter{Process specifications}							% Activity Diagrams
 \includegraphics[scale=.9]{ProcessSpecificationCRUD1.eps}\\
 \includegraphics[scale=.9]{ProcessSpecificationCRUD3.eps}\\
@@ -108,6 +116,7 @@ This document discusses the application functionality required by users (and oth
 \includegraphics[scale=.9]{seanAC.eps}\\
 \includegraphics[scale=.9]{seanAC1.eps}\\
 \includegraphics[scale=.9]{Shaun_activity.eps}\\
+\includegraphics[scale=.9]{Semaka_Activity_Diagram.eps}\\
 \chapter{Domain Model}   								% Class Diagras
 \includegraphics[scale=.9]{CRUDDomainModel.eps}\\
 \includegraphics[scale=.9]{seanDM.eps}			
