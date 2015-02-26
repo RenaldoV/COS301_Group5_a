@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {2.3}Nice-To-Have}{5}{section.2.3}
 \contentsline {chapter}{\numberline {3}Use case/Services contracts}{6}{chapter.3}
 \contentsline {section}{\numberline {3.1}Pre-Conditions}{6}{section.3.1}
-\contentsline {section}{\numberline {3.2}Post-Conditions}{6}{section.3.2}
+\contentsline {section}{\numberline {3.2}Post-Conditions}{7}{section.3.2}
 \contentsline {section}{\numberline {3.3}Request and Results Data Structures}{7}{section.3.3}
 \contentsline {chapter}{\numberline {4}Required functionality}{8}{chapter.4}
 \contentsline {chapter}{\numberline {5}Process specifications}{12}{chapter.5}
