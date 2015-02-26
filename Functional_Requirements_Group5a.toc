@@ -8,5 +8,5 @@
 \contentsline {section}{\numberline {3.2}Post-Conditions}{7}{section.3.2}
 \contentsline {section}{\numberline {3.3}Request and Results Data Structures}{7}{section.3.3}
 \contentsline {chapter}{\numberline {4}Required functionality}{8}{chapter.4}
-\contentsline {chapter}{\numberline {5}Process specifications}{12}{chapter.5}
-\contentsline {chapter}{\numberline {6}Domain Model}{18}{chapter.6}
+\contentsline {chapter}{\numberline {5}Process specifications}{14}{chapter.5}
+\contentsline {chapter}{\numberline {6}Domain Model}{22}{chapter.6}

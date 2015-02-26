@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 11:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 14:36
 entering extended mode
 **Functional_Requirements_Group5a.tex
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.tex
+
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,52 +15,61 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrreprt.cls"
-Document Class: scrreprt 2013/12/19 v3.12 KOMA-Script document class (report)
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
-Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
+
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\s
+crreprt.cls
+Document Class: scrreprt 2015/01/14 v3.15 KOMA-Script document class (report)
+
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\s
+crkbase.sty
+Package: scrkbase 2015/01/14 v3.15 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
-Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\s
+crbase.sty
+Package: scrbase 2015/01/14 v3.15 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
-Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\s
+crlfile.sty
+Package: scrlfile 2015/01/14 v3.15 KOMA-Script package (loading files)
 
-Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+Package scrlfile, 2015/01/14 v3.15 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
-Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
+)))
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\t
+ocbasic.sty
+Package: tocbasic 2015/01/14 v3.15 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 117.
+(tocbasic)             for `toc' on input line 118.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 118.
+(tocbasic)             for `lof' on input line 119.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 119.
-Package tocbasic Info: defining new hook before heading of `' on input line 112
-3.
+(tocbasic)             for `lot' on input line 120.
+Package tocbasic Info: defining new hook before heading of `' on input line 117
+9.
 Class scrreprt Info: File `scrsize11pt.clo' used instead of
-(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 165
-5.
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 171
+1.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
-File: scrsize11pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (11pt
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\s
+crsize11pt.clo
+File: scrsize11pt.clo 2015/01/14 v3.15 KOMA-Script font size class option (11pt
 )
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
-Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\t
+ypearea.sty
+Package: typearea 2015/01/14 v3.15 KOMA-Script package (type area)
 
-Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
+Package typearea, 2015/01/14 v3.15 KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -84,7 +95,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1330.
+(typearea)              on input line 1341.
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -99,14 +110,13 @@ Package typearea Info: These are the values describing the layout:
 \c@figure=\count87
 \c@table=\count88
 \bibindent=\dimen102
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
@@ -146,26 +156,25 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen103
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
@@ -178,7 +187,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -203,40 +212,40 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip48
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tabto\tabto.sty"
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\latex\tabto\tabto.s
+ty
 Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
 \CurrentLineWidth=\dimen107
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gread@gobject=\count99
 ))
@@ -246,13 +255,13 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \epsfxsize=\dimen110
 \epsfysize=\dimen111
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -262,7 +271,8 @@ G,.JBIG2,.JB2,.eps]
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.aux)
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
@@ -278,21 +288,19 @@ LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 \AtBeginShipoutBox=\box27
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+ ("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
 Package hyperref Info: Link coloring ON on input line 49.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9 L\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count100
@@ -301,11 +309,14 @@ LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
 
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.out)
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.out)
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.out)
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.out)
 \@outlinefile=\write3
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\GreaterThanSolomon\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-p
+df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count101
 \scratchdimen=\dimen112
@@ -334,8 +345,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.toc
+{C:/Users/GreaterThanSolomon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+] [2]
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -358,17 +371,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 ]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
+Underfull \hbox (badness 10000) in paragraph at lines 56--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
+Underfull \hbox (badness 10000) in paragraph at lines 64--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--69
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
 
  []
 
@@ -377,12 +390,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--69
 ]
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
@@ -390,14 +403,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
 ]
 Package epstopdf Info: Source file: <DataStructuresCRUD.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 42952 bytes
 (epstopdf)             Output file: <DataStructuresCRUD-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 13414 bytes
 (epstopdf)             Command: <epstopdf --outfile=DataStructuresCRUD-eps-conv
 erted-to.pdf DataStructuresCRUD.eps>
-(epstopdf)             \includegraphics on input line 105.
+(epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
 
 <DataStructuresCRUD-eps-converted-to.pdf, id=93, 551.05875pt x 753.81625pt>
@@ -405,83 +418,80 @@ File: DataStructuresCRUD-eps-converted-to.pdf Graphic file (type pdf)
 
 <use DataStructuresCRUD-eps-converted-to.pdf>
 Package pdftex.def Info: DataStructuresCRUD-eps-converted-to.pdf used on input 
-line 105.
+line 116.
 (pdftex.def)             Requested size: 220.41959pt x 301.52116pt.
 Package epstopdf Info: Source file: <Semaka_Class_Diagram.eps>
-(epstopdf)                    date: 2015-02-26 11:16:30
-(epstopdf)                    size: 40516 bytes
+(epstopdf)                    date: 2015-02-26 13:01:20
+(epstopdf)                    size: 40517 bytes
 (epstopdf)             Output file: <Semaka_Class_Diagram-eps-converted-to.pdf>
 
+(epstopdf)                    date: 2015-02-26 13:01:20
+(epstopdf)                    size: 12286 bytes
 (epstopdf)             Command: <epstopdf --outfile=Semaka_Class_Diagram-eps-co
 nverted-to.pdf Semaka_Class_Diagram.eps>
-(epstopdf)             \includegraphics on input line 106.
-runsystem(epstopdf --outfile=Semaka_Class_Diagram-eps-converted-to.pdf Semaka_C
-lass_Diagram.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <Semaka_Class_Diagram-eps-converted-to.pdf>
-
-(epstopdf)                    date: 2015-02-26 11:32:52
-(epstopdf)                    size: 12286 bytes.
+(epstopdf)             \includegraphics on input line 117.
+Package epstopdf Info: Output file is already uptodate.
 
 <Semaka_Class_Diagram-eps-converted-to.pdf, id=94, 557.08125pt x 404.51125pt>
 File: Semaka_Class_Diagram-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Semaka_Class_Diagram-eps-converted-to.pdf>
 Package pdftex.def Info: Semaka_Class_Diagram-eps-converted-to.pdf used on inpu
-t line 106.
+t line 117.
 (pdftex.def)             Requested size: 222.82855pt x 161.80162pt.
 
-Overfull \hbox (27.42592pt too wide) in paragraph at lines 105--107
+Overfull \hbox (27.42592pt too wide) in paragraph at lines 116--118
 [] [] 
  []
 
-[7 <G:/COS301_Group5_a/DataStructuresCRUD-eps-converted-to.pdf> <G:/COS301_Grou
-p5_a/Semaka_Class_Diagram-eps-converted-to.pdf>]
+[7 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/DataStructuresCRUD-ep
+s-converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/Sema
+ka_Class_Diagram-eps-converted-to.pdf>]
 Chapter 4.
 Package epstopdf Info: Source file: <CRUDUSECASE.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 47288 bytes
 (epstopdf)             Output file: <CRUDUSECASE-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 15782 bytes
 (epstopdf)             Command: <epstopdf --outfile=CRUDUSECASE-eps-converted-t
 o.pdf CRUDUSECASE.eps>
-(epstopdf)             \includegraphics on input line 108.
+(epstopdf)             \includegraphics on input line 119.
 Package epstopdf Info: Output file is already uptodate.
 <CRUDUSECASE-eps-converted-to.pdf, id=140, 557.08125pt x 330.23375pt>
 File: CRUDUSECASE-eps-converted-to.pdf Graphic file (type pdf)
 
 <use CRUDUSECASE-eps-converted-to.pdf>
-Package pdftex.def Info: CRUDUSECASE-eps-converted-to.pdf used on input line 10
-8.
+Package pdftex.def Info: CRUDUSECASE-eps-converted-to.pdf used on input line 11
+9.
 (pdftex.def)             Requested size: 501.3685pt x 297.20761pt.
 Package epstopdf Info: Source file: <seanUC.eps>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 48023 bytes
 (epstopdf)             Output file: <seanUC-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 15466 bytes
 (epstopdf)             Command: <epstopdf --outfile=seanUC-eps-converted-to.pdf
  seanUC.eps>
-(epstopdf)             \includegraphics on input line 109.
+(epstopdf)             \includegraphics on input line 120.
 Package epstopdf Info: Output file is already uptodate.
 
 <seanUC-eps-converted-to.pdf, id=141, 557.08125pt x 346.29375pt>
 File: seanUC-eps-converted-to.pdf Graphic file (type pdf)
 
 <use seanUC-eps-converted-to.pdf>
-Package pdftex.def Info: seanUC-eps-converted-to.pdf used on input line 109.
+Package pdftex.def Info: seanUC-eps-converted-to.pdf used on input line 120.
 (pdftex.def)             Requested size: 501.3685pt x 311.66148pt.
 Package epstopdf Info: Source file: <Shaun_functionalRequirements.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 46801 bytes
 (epstopdf)             Output file: <Shaun_functionalRequirements-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 18234 bytes
 (epstopdf)             Command: <epstopdf --outfile=Shaun_functionalRequirement
 s-eps-converted-to.pdf Shaun_functionalRequirements.eps>
-(epstopdf)             \includegraphics on input line 110.
+(epstopdf)             \includegraphics on input line 121.
 Package epstopdf Info: Output file is already uptodate.
 
 <Shaun_functionalRequirements-eps-converted-to.pdf, id=142, 557.08125pt x 324.2
@@ -490,17 +500,17 @@ File: Shaun_functionalRequirements-eps-converted-to.pdf Graphic file (type pdf)
 
  <use Shaun_functionalRequirements-eps-converted-to.pdf>
 Package pdftex.def Info: Shaun_functionalRequirements-eps-converted-to.pdf used
- on input line 110.
+ on input line 121.
 (pdftex.def)             Requested size: 501.3685pt x 291.78741pt.
 Package epstopdf Info: Source file: <Semaka_Use_Case.eps>
-(epstopdf)                    date: 2015-02-26 11:18:00
-(epstopdf)                    size: 44280 bytes
+(epstopdf)                    date: 2015-02-26 13:01:20
+(epstopdf)                    size: 44282 bytes
 (epstopdf)             Output file: <Semaka_Use_Case-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 11:27:16
+(epstopdf)                    date: 2015-02-26 13:01:20
 (epstopdf)                    size: 12908 bytes
 (epstopdf)             Command: <epstopdf --outfile=Semaka_Use_Case-eps-convert
 ed-to.pdf Semaka_Use_Case.eps>
-(epstopdf)             \includegraphics on input line 111.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <Semaka_Use_Case-eps-converted-to.pdf, id=143, 557.08125pt x 402.50375pt>
@@ -508,304 +518,461 @@ File: Semaka_Use_Case-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Semaka_Use_Case-eps-converted-to.pdf>
 Package pdftex.def Info: Semaka_Use_Case-eps-converted-to.pdf used on input lin
-e 111.
+e 122.
 (pdftex.def)             Requested size: 501.3685pt x 362.25002pt.
+Package epstopdf Info: Source file: <HlavuteloNetiquetteRules.eps>
+(epstopdf)                    date: 2015-02-26 10:39:27
+(epstopdf)                    size: 50381 bytes
+(epstopdf)             Output file: <HlavuteloNetiquetteRules-eps-converted-to.
+pdf>
+(epstopdf)             Command: <epstopdf --outfile=HlavuteloNetiquetteRules-ep
+s-converted-to.pdf HlavuteloNetiquetteRules.eps>
+(epstopdf)             \includegraphics on input line 123.
+runsystem(epstopdf --outfile=HlavuteloNetiquetteRules-eps-converted-to.pdf Hlav
+uteloNetiquetteRules.eps)...executed (allowed).
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 108--112
+Package epstopdf Info: Result file: <HlavuteloNetiquetteRules-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2015-02-26 14:36:38
+(epstopdf)                    size: 18990 bytes.
+
+<HlavuteloNetiquetteRules-eps-converted-to.pdf, id=144, 557.08125pt x 328.22626
+pt>
+File: HlavuteloNetiquetteRules-eps-converted-to.pdf Graphic file (type pdf)
+ <use HlavuteloNetiquetteRules-eps-converted-to.pdf>
+Package pdftex.def Info: HlavuteloNetiquetteRules-eps-converted-to.pdf used on 
+input line 123.
+(pdftex.def)             Requested size: 501.3685pt x 295.4009pt.
+Package epstopdf Info: Source file: <HlavuteloPlagiarism.eps>
+(epstopdf)                    date: 2015-02-26 10:38:46
+(epstopdf)                    size: 50365 bytes
+(epstopdf)             Output file: <HlavuteloPlagiarism-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=HlavuteloPlagiarism-eps-con
+verted-to.pdf HlavuteloPlagiarism.eps>
+(epstopdf)             \includegraphics on input line 124.
+runsystem(epstopdf --outfile=HlavuteloPlagiarism-eps-converted-to.pdf Hlavutelo
+Plagiarism.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <HlavuteloPlagiarism-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-26 14:36:41
+(epstopdf)                    size: 19809 bytes.
+
+<HlavuteloPlagiarism-eps-converted-to.pdf, id=145, 557.08125pt x 302.12875pt>
+File: HlavuteloPlagiarism-eps-converted-to.pdf Graphic file (type pdf)
+
+<use HlavuteloPlagiarism-eps-converted-to.pdf>
+Package pdftex.def Info: HlavuteloPlagiarism-eps-converted-to.pdf used on input
+ line 124.
+(pdftex.def)             Requested size: 501.3685pt x 271.91336pt.
+
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 108--112
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 108--112
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 108--112
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--112
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
+[] 
+ []
+
+
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 119--125
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
 
  []
 
 [8
 
-]
-Overfull \vbox (107.23053pt too high) has occurred while \output is active []
+] [9]
+Overfull \vbox (54.35326pt too high) has occurred while \output is active []
 
 
-[9 <G:/COS301_Group5_a/CRUDUSECASE-eps-converted-to.pdf> <G:/COS301_Group5_a/se
-anUC-eps-converted-to.pdf>] [10 <G:/COS301_Group5_a/Shaun_functionalRequirement
-s-eps-converted-to.pdf>] [11 <G:/COS301_Group5_a/Semaka_Use_Case-eps-converted-
-to.pdf>]
+[10 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/CRUDUSECASE-eps-conv
+erted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/seanUC-eps
+-converted-to.pdf>] [11 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/
+Shaun_functionalRequirements-eps-converted-to.pdf>] [12 <C:/Users/GreaterThanSo
+lomon/Documents/COS301_Group5_a/Semaka_Use_Case-eps-converted-to.pdf>] [13 <C:/
+Users/GreaterThanSolomon/Documents/COS301_Group5_a/HlavuteloNetiquetteRules-eps
+-converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/Hlavu
+teloPlagiarism-eps-converted-to.pdf>]
 Chapter 5.
 Package epstopdf Info: Source file: <ProcessSpecificationCRUD1.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 48310 bytes
 (epstopdf)             Output file: <ProcessSpecificationCRUD1-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 15700 bytes
 (epstopdf)             Command: <epstopdf --outfile=ProcessSpecificationCRUD1-e
 ps-converted-to.pdf ProcessSpecificationCRUD1.eps>
-(epstopdf)             \includegraphics on input line 113.
+(epstopdf)             \includegraphics on input line 127.
 Package epstopdf Info: Output file is already uptodate.
 
-<ProcessSpecificationCRUD1-eps-converted-to.pdf, id=299, 557.08125pt x 350.3087
+<ProcessSpecificationCRUD1-eps-converted-to.pdf, id=406, 557.08125pt x 350.3087
 5pt>
 File: ProcessSpecificationCRUD1-eps-converted-to.pdf Graphic file (type pdf)
  <use ProcessSpecificationCRUD1-eps-converted-to.pdf>
 Package pdftex.def Info: ProcessSpecificationCRUD1-eps-converted-to.pdf used on
- input line 113.
+ input line 127.
 (pdftex.def)             Requested size: 501.3685pt x 315.27496pt.
 Package epstopdf Info: Source file: <ProcessSpecificationCRUD3.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 48276 bytes
 (epstopdf)             Output file: <ProcessSpecificationCRUD3-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 15941 bytes
 (epstopdf)             Command: <epstopdf --outfile=ProcessSpecificationCRUD3-e
 ps-converted-to.pdf ProcessSpecificationCRUD3.eps>
-(epstopdf)             \includegraphics on input line 114.
+(epstopdf)             \includegraphics on input line 128.
 Package epstopdf Info: Output file is already uptodate.
 
-<ProcessSpecificationCRUD3-eps-converted-to.pdf, id=300, 557.08125pt x 380.4212
+<ProcessSpecificationCRUD3-eps-converted-to.pdf, id=407, 557.08125pt x 380.4212
 5pt>
 File: ProcessSpecificationCRUD3-eps-converted-to.pdf Graphic file (type pdf)
  <use ProcessSpecificationCRUD3-eps-converted-to.pdf>
 Package pdftex.def Info: ProcessSpecificationCRUD3-eps-converted-to.pdf used on
- input line 114.
+ input line 128.
 (pdftex.def)             Requested size: 501.3685pt x 342.37595pt.
 Package epstopdf Info: Source file: <ProcessSpecificationsCRUD2.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 49883 bytes
 (epstopdf)             Output file: <ProcessSpecificationsCRUD2-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 17586 bytes
 (epstopdf)             Command: <epstopdf --outfile=ProcessSpecificationsCRUD2-
 eps-converted-to.pdf ProcessSpecificationsCRUD2.eps>
-(epstopdf)             \includegraphics on input line 115.
+(epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 
-<ProcessSpecificationsCRUD2-eps-converted-to.pdf, id=301, 557.08125pt x 372.391
+<ProcessSpecificationsCRUD2-eps-converted-to.pdf, id=408, 557.08125pt x 372.391
 25pt>
 File: ProcessSpecificationsCRUD2-eps-converted-to.pdf Graphic file (type pdf)
  <use ProcessSpecificationsCRUD2-eps-converted-to.pdf>
 Package pdftex.def Info: ProcessSpecificationsCRUD2-eps-converted-to.pdf used o
-n input line 115.
+n input line 129.
 (pdftex.def)             Requested size: 501.3685pt x 335.14902pt.
 Package epstopdf Info: Source file: <seanAC.eps>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 45739 bytes
 (epstopdf)             Output file: <seanAC-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 10:59:24
-(epstopdf)                    size: 13804 bytes
+(epstopdf)                    date: 2015-02-26 11:32:54
+(epstopdf)                    size: 13814 bytes
 (epstopdf)             Command: <epstopdf --outfile=seanAC-eps-converted-to.pdf
  seanAC.eps>
-(epstopdf)             \includegraphics on input line 116.
+(epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
 
-<seanAC-eps-converted-to.pdf, id=302, 557.08125pt x 334.24875pt>
+<seanAC-eps-converted-to.pdf, id=409, 557.08125pt x 334.24875pt>
 File: seanAC-eps-converted-to.pdf Graphic file (type pdf)
 
 <use seanAC-eps-converted-to.pdf>
-Package pdftex.def Info: seanAC-eps-converted-to.pdf used on input line 116.
+Package pdftex.def Info: seanAC-eps-converted-to.pdf used on input line 130.
 (pdftex.def)             Requested size: 501.3685pt x 300.82109pt.
 Package epstopdf Info: Source file: <seanAC1.eps>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 41852 bytes
 (epstopdf)             Output file: <seanAC1-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 11332 bytes
 (epstopdf)             Command: <epstopdf --outfile=seanAC1-eps-converted-to.pd
 f seanAC1.eps>
-(epstopdf)             \includegraphics on input line 117.
+(epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 
-<seanAC1-eps-converted-to.pdf, id=303, 557.08125pt x 334.24875pt>
+<seanAC1-eps-converted-to.pdf, id=410, 557.08125pt x 334.24875pt>
 File: seanAC1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use seanAC1-eps-converted-to.pdf>
-Package pdftex.def Info: seanAC1-eps-converted-to.pdf used on input line 117.
+Package pdftex.def Info: seanAC1-eps-converted-to.pdf used on input line 131.
 (pdftex.def)             Requested size: 501.3685pt x 300.82109pt.
 Package epstopdf Info: Source file: <Shaun_activity.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 53351 bytes
 (epstopdf)             Output file: <Shaun_activity-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 19566 bytes
 (epstopdf)             Command: <epstopdf --outfile=Shaun_activity-eps-converte
 d-to.pdf Shaun_activity.eps>
-(epstopdf)             \includegraphics on input line 118.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 
-<Shaun_activity-eps-converted-to.pdf, id=304, 557.08125pt x 233.87375pt>
+<Shaun_activity-eps-converted-to.pdf, id=411, 557.08125pt x 233.87375pt>
 File: Shaun_activity-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Shaun_activity-eps-converted-to.pdf>
 Package pdftex.def Info: Shaun_activity-eps-converted-to.pdf used on input line
- 118.
+ 132.
 (pdftex.def)             Requested size: 501.3685pt x 210.4844pt.
 Package epstopdf Info: Source file: <Semaka_Activity_Diagram.eps>
-(epstopdf)                    date: 2015-02-26 11:18:34
-(epstopdf)                    size: 44739 bytes
+(epstopdf)                    date: 2015-02-26 13:01:20
+(epstopdf)                    size: 44740 bytes
 (epstopdf)             Output file: <Semaka_Activity_Diagram-eps-converted-to.p
 df>
-(epstopdf)                    date: 2015-02-26 11:25:04
+(epstopdf)                    date: 2015-02-26 13:01:20
 (epstopdf)                    size: 12474 bytes
 (epstopdf)             Command: <epstopdf --outfile=Semaka_Activity_Diagram-eps
 -converted-to.pdf Semaka_Activity_Diagram.eps>
-(epstopdf)             \includegraphics on input line 119.
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
 
-<Semaka_Activity_Diagram-eps-converted-to.pdf, id=305, 557.08125pt x 404.51125p
+<Semaka_Activity_Diagram-eps-converted-to.pdf, id=412, 557.08125pt x 404.51125p
 t>
 File: Semaka_Activity_Diagram-eps-converted-to.pdf Graphic file (type pdf)
  <use Semaka_Activity_Diagram-eps-converted-to.pdf>
 Package pdftex.def Info: Semaka_Activity_Diagram-eps-converted-to.pdf used on i
-nput line 119.
+nput line 133.
 (pdftex.def)             Requested size: 501.3685pt x 364.05675pt.
+Package epstopdf Info: Source file: <HlavuteloPlagiarismNetiquetteAD.eps>
+(epstopdf)                    date: 2015-02-26 10:36:56
+(epstopdf)                    size: 52845 bytes
+(epstopdf)             Output file: <HlavuteloPlagiarismNetiquetteAD-eps-conver
+ted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=HlavuteloPlagiarismNetiquet
+teAD-eps-converted-to.pdf HlavuteloPlagiarismNetiquetteAD.eps>
+(epstopdf)             \includegraphics on input line 134.
+runsystem(epstopdf --outfile=HlavuteloPlagiarismNetiquetteAD-eps-converted-to.p
+df HlavuteloPlagiarismNetiquetteAD.eps)...executed (allowed).
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Package epstopdf Info: Result file: <HlavuteloPlagiarismNetiquetteAD-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2015-02-26 14:36:44
+(epstopdf)                    size: 19800 bytes.
+
+<HlavuteloPlagiarismNetiquetteAD-eps-converted-to.pdf, id=413, 557.08125pt x 39
+2.46625pt>
+File: HlavuteloPlagiarismNetiquetteAD-eps-converted-to.pdf Graphic file (type p
+df)
+ <use HlavuteloPlagiarismNetiquetteAD-eps-converted-to.pdf>
+Package pdftex.def Info: HlavuteloPlagiarismNetiquetteAD-eps-converted-to.pdf u
+sed on input line 134.
+(pdftex.def)             Requested size: 501.3685pt x 353.21634pt.
+
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--120
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 127--135
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--135
 
  []
 
-[12
+[14
 
-]
-Overfull \vbox (156.01234pt too high) has occurred while \output is active []
+] [15]
+Overfull \vbox (103.13507pt too high) has occurred while \output is active []
 
 
-[13 <G:/COS301_Group5_a/ProcessSpecificationCRUD1-eps-converted-to.pdf> <G:/COS
-301_Group5_a/ProcessSpecificationCRUD3-eps-converted-to.pdf>] [14 <G:/COS301_Gr
-oup5_a/ProcessSpecificationsCRUD2-eps-converted-to.pdf>] [15 <G:/COS301_Group5_
-a/seanAC-eps-converted-to.pdf>] [16 <G:/COS301_Group5_a/seanAC1-eps-converted-t
-o.pdf> <G:/COS301_Group5_a/Shaun_activity-eps-converted-to.pdf>] [17 <G:/COS301
-_Group5_a/Semaka_Activity_Diagram-eps-converted-to.pdf>]
+[16 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/ProcessSpecification
+CRUD1-eps-converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group
+5_a/ProcessSpecificationCRUD3-eps-converted-to.pdf>] [17 <C:/Users/GreaterThanS
+olomon/Documents/COS301_Group5_a/ProcessSpecificationsCRUD2-eps-converted-to.pd
+f>] [18 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/seanAC-eps-conve
+rted-to.pdf>] [19 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/seanAC
+1-eps-converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/
+Shaun_activity-eps-converted-to.pdf>] [20 <C:/Users/GreaterThanSolomon/Document
+s/COS301_Group5_a/Semaka_Activity_Diagram-eps-converted-to.pdf>] [21 <C:/Users/
+GreaterThanSolomon/Documents/COS301_Group5_a/HlavuteloPlagiarismNetiquetteAD-ep
+s-converted-to.pdf>]
 Chapter 6.
 Package epstopdf Info: Source file: <CRUDDomainModel.eps>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 43822 bytes
 (epstopdf)             Output file: <CRUDDomainModel-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:14
+(epstopdf)                    date: 2015-02-26 11:32:53
 (epstopdf)                    size: 13814 bytes
 (epstopdf)             Command: <epstopdf --outfile=CRUDDomainModel-eps-convert
 ed-to.pdf CRUDDomainModel.eps>
-(epstopdf)             \includegraphics on input line 121.
+(epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
-<CRUDDomainModel-eps-converted-to.pdf, id=561, 557.08125pt x 322.20375pt>
+<CRUDDomainModel-eps-converted-to.pdf, id=724, 557.08125pt x 322.20375pt>
 File: CRUDDomainModel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use CRUDDomainModel-eps-converted-to.pdf>
 Package pdftex.def Info: CRUDDomainModel-eps-converted-to.pdf used on input lin
-e 121.
+e 137.
 (pdftex.def)             Requested size: 501.3685pt x 289.98068pt.
 Package epstopdf Info: Source file: <seanDM.eps>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 41226 bytes
 (epstopdf)             Output file: <seanDM-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-02-26 01:47:16
+(epstopdf)                    date: 2015-02-26 11:32:54
 (epstopdf)                    size: 11747 bytes
 (epstopdf)             Command: <epstopdf --outfile=seanDM-eps-converted-to.pdf
  seanDM.eps>
-(epstopdf)             \includegraphics on input line 122.
+(epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
 
-<seanDM-eps-converted-to.pdf, id=562, 557.08125pt x 334.24875pt>
+<seanDM-eps-converted-to.pdf, id=725, 557.08125pt x 334.24875pt>
 File: seanDM-eps-converted-to.pdf Graphic file (type pdf)
 
 <use seanDM-eps-converted-to.pdf>
-Package pdftex.def Info: seanDM-eps-converted-to.pdf used on input line 122.
+Package pdftex.def Info: seanDM-eps-converted-to.pdf used on input line 138.
 (pdftex.def)             Requested size: 501.3685pt x 300.82109pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+Package epstopdf Info: Source file: <HlavuteloPlagiarismCD.eps>
+(epstopdf)                    date: 2015-02-26 10:38:56
+(epstopdf)                    size: 42356 bytes
+(epstopdf)             Output file: <HlavuteloPlagiarismCD-eps-converted-to.pdf
+>
+(epstopdf)             Command: <epstopdf --outfile=HlavuteloPlagiarismCD-eps-c
+onverted-to.pdf HlavuteloPlagiarismCD.eps>
+(epstopdf)             \includegraphics on input line 139.
+runsystem(epstopdf --outfile=HlavuteloPlagiarismCD-eps-converted-to.pdf Hlavute
+loPlagiarismCD.eps)...executed (allowed).
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 121--124
+Package epstopdf Info: Result file: <HlavuteloPlagiarismCD-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-26 14:36:47
+(epstopdf)                    size: 13709 bytes.
+
+<HlavuteloPlagiarismCD-eps-converted-to.pdf, id=726, 557.08125pt x 306.14375pt>
+File: HlavuteloPlagiarismCD-eps-converted-to.pdf Graphic file (type pdf)
+<use HlavuteloPlagiarismCD-eps-converted-to.pdf>
+Package pdftex.def Info: HlavuteloPlagiarismCD-eps-converted-to.pdf used on inp
+ut line 139.
+(pdftex.def)             Requested size: 501.3685pt x 275.52681pt.
+Package epstopdf Info: Source file: <HlavuteloNetiquetteCD.eps>
+(epstopdf)                    date: 2015-02-26 10:39:13
+(epstopdf)                    size: 47702 bytes
+(epstopdf)             Output file: <HlavuteloNetiquetteCD-eps-converted-to.pdf
+>
+(epstopdf)             Command: <epstopdf --outfile=HlavuteloNetiquetteCD-eps-c
+onverted-to.pdf HlavuteloNetiquetteCD.eps>
+(epstopdf)             \includegraphics on input line 140.
+runsystem(epstopdf --outfile=HlavuteloNetiquetteCD-eps-converted-to.pdf Hlavute
+loNetiquetteCD.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <HlavuteloNetiquetteCD-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-02-26 14:36:49
+(epstopdf)                    size: 17188 bytes.
+
+<HlavuteloNetiquetteCD-eps-converted-to.pdf, id=727, 557.08125pt x 306.14375pt>
+File: HlavuteloNetiquetteCD-eps-converted-to.pdf Graphic file (type pdf)
+<use HlavuteloNetiquetteCD-eps-converted-to.pdf>
+Package pdftex.def Info: HlavuteloNetiquetteCD-eps-converted-to.pdf used on inp
+ut line 140.
+(pdftex.def)             Requested size: 501.3685pt x 275.52681pt.
+
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 137--141
 [] 
  []
 
 
-Overfull \hbox (83.11295pt too wide) in paragraph at lines 121--124
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 137--141
+[]
+ []
+
+
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 137--141
 [] 
  []
 
-[18
 
-]
-Overfull \vbox (85.13043pt too high) has occurred while \output is active []
+Overfull \hbox (83.11295pt too wide) in paragraph at lines 137--141
+[] 
+ []
 
 
-[19 <G:/COS301_Group5_a/CRUDDomainModel-eps-converted-to.pdf> <G:/COS301_Group5
-_a/seanDM-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Underfull \hbox (badness 10000) in paragraph at lines 137--141
 
-(G:\COS301_Group5_a\Functional_Requirements_Group5a.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+ []
+
+[22
+
+] [23]
+Overfull \vbox (32.25316pt too high) has occurred while \output is active []
+
+
+[24 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/CRUDDomainModel-eps-
+converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/seanDM
+-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+ [25 <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a/HlavuteloPlagiarism
+CD-eps-converted-to.pdf> <C:/Users/GreaterThanSolomon/Documents/COS301_Group5_a
+/HlavuteloNetiquetteCD-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+
+(C:\Users\GreaterThanSolomon\Documents\COS301_Group5_a\Functional_Requirements_
+Group5a.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `Functional_Requirements_Group5a.out' has not
  changed.
 (rerunfilecheck)             Checksum: A010813B610C92AFFED29E91A6CE5307;712.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 6647 strings out of 493921
- 104734 string characters out of 3147279
- 227387 words of memory out of 3000000
- 9853 multiletter control sequences out of 15000+200000
+ 6840 strings out of 493921
+ 110954 string characters out of 3144035
+ 239239 words of memory out of 3000000
+ 10035 multiletter control sequences out of 15000+200000
  9236 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,7n,38p,282b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Functional_Requirements_Group5a.pdf (19 pages, 275430 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9 L/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9 L/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9 L/fonts/type1/public/amsfonts/cm/cmssbx10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9 L/fonts/type1/public/amsfonts/cm/cmtt12.pf
+b>
+Output written on Functional_Requirements_Group5a.pdf (25 pages, 362498 bytes).
 
 PDF statistics:
- 637 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 873 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 

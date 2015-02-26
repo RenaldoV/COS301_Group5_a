@@ -14,7 +14,7 @@
 }%
 \title{%
 \author{
-Khathutshelo Matidza 11072157\\
+Khathutshelo Shaun Matidza 11072157\\
 \and
 Renaldo van Dyk 12204359\\
 \and
@@ -50,7 +50,7 @@ GitHub\\
 \maketitle
 \tableofcontents
 \chapter{ Introduction}
-This document discusses the application functionality required by users (and other stakehodlers).\\
+This document discusses the application functionality required by users (and other stakeholders).\\
 \chapter{ Use case prioritization}
 \section{Critical}
 1.1 Delete\\
@@ -58,14 +58,19 @@ This document discusses the application functionality required by users (and oth
 1.3 Create\\
 1.4 Update\\
 1.5 Comment\\
+1.6 Sign-in\\
+1.7 Sign-up\\
 \section{Important}
 1.1.1 Archive post\\
 2.1 Direct messages\\
 3.1 The system to have a structure of some sort\\
+4.1 Post subject\\
+5.1 Unauthorised usage of personal information, e.g Emails.\\
 \section{Nice-To-Have}
-3.1 View visualized statistical information\\
+1.1 View visualized statistical information\\
 2.1{a} The user to choose their own structure\\
 2.1{b} Making use of tags\\
+3.1 No sarcasm\\
 \chapter{Use case/Services contracts}
 \NumTabs{18}
 \section{Pre-Conditions}								%PRE CONDITIONS
@@ -88,6 +93,9 @@ This document discusses the application functionality required by users (and oth
 5.1\tab{a}) Check user status level before commenting\\
 5.1\tab{b}) Check word count of post before commenting\\
 6.1\tab{a}) Users must be registered to be able to view content/posts according to their own structure\\
+7.1\tab{a}) User not registered, access denied.\\
+7.1\tab{b}) User registered but not signed in.\\
+7.2\tab{c}) For plagiarism detection, if post does not conform to netiquette rules.\\
 \section{Post-Conditions}								%POST CONDITIONS	
 1.1\tab{a) Post will not exist in database}\\
 1.1\tab{b)Post will not be visible to users}\\
@@ -101,6 +109,9 @@ This document discusses the application functionality required by users (and oth
 4.1\tab{a}) Comment should be visible to all users of that level\\
 5.1\tab{a}) Posts should be organised according to tags\\
 5.1\tab{b}) Registered users should be able to choose the structure in which to view tags\\
+6.1\tab{a}) Proceed to scan post use case if registered and already signed in.\\
+6.2\tab{a}) Generate report and reply data after scanning posts.\\
+6.3\tab{a}) Return report about netiquette rules.\\
 \section{Request and Results Data Structures} 
 \includegraphics[scale=.4]{DataStructuresCRUD.eps}
 \includegraphics[scale=.4]{Semaka_Class_Diagram.eps}
@@ -109,6 +120,9 @@ This document discusses the application functionality required by users (and oth
 \includegraphics[scale=.9]{seanUC.eps}\\
 \includegraphics[scale=.9]{Shaun_functionalRequirements.eps}\\
 \includegraphics[scale=.9]{Semaka_Use_Case.eps}\\
+\includegraphics[scale=.9]{HlavuteloNetiquetteRules.eps}\\
+\includegraphics[scale=.9]{HlavuteloPlagiarism.eps}\\
+
 \chapter{Process specifications}							% Activity Diagrams
 \includegraphics[scale=.9]{ProcessSpecificationCRUD1.eps}\\
 \includegraphics[scale=.9]{ProcessSpecificationCRUD3.eps}\\
@@ -117,8 +131,13 @@ This document discusses the application functionality required by users (and oth
 \includegraphics[scale=.9]{seanAC1.eps}\\
 \includegraphics[scale=.9]{Shaun_activity.eps}\\
 \includegraphics[scale=.9]{Semaka_Activity_Diagram.eps}\\
+\includegraphics[scale=.9]{HlavuteloPlagiarismNetiquetteAD.eps}\\
+
 \chapter{Domain Model}   								% Class Diagras
 \includegraphics[scale=.9]{CRUDDomainModel.eps}\\
-\includegraphics[scale=.9]{seanDM.eps}			
+\includegraphics[scale=.9]{seanDM.eps}		
+\includegraphics[scale=.9]{HlavuteloPlagiarismCD.eps}\\
+\includegraphics[scale=.9]{HlavuteloNetiquetteCD.eps}\\
+
 % add other chapters and sections to suit
 \end{document}
