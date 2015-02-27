@@ -1,0 +1,13 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Use Case Prioritization: AdminManagement}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Critical}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Important}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Nice-To-Have}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Use Case/Services Contracts: AdminManagement}{}% 6
+\BOOKMARK [1][-]{section.3.1}{Pre-Conditions}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.2}{Post-Conditions}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.3}{Request and Results Data Structures}{chapter.3}% 9
+\BOOKMARK [0][-]{chapter.4}{Required Functionality: AdminManagement}{}% 10
+\BOOKMARK [0][-]{chapter.5}{Process Specifications: AdminManagement}{}% 11
+\BOOKMARK [0][-]{chapter.6}{Domain Model}{}% 12
+\BOOKMARK [0][-]{chapter.7}{High Level Overview}{}% 13
