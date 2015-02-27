@@ -84,25 +84,117 @@
 \subsubsection{User Management}
 \includegraphics[scale=.9]{Sean/activityDiagramUserManagement.eps}\\
 
-\section{User Ranking}
+%Admin Management
+\section{Admin Management}
 \subsection{Use case prioritization}
 \subsubsection{Critical}
 \begin{itemize}
-  \item 4.1 Rate post
-  \item 4.3 Manage User Ranking
+  \item 2.1 createAccount
+  \item 2.2 deleteAccount
 \end{itemize}
-
 \subsubsection{Important}
-\begin{itemize}
-  \item 4.2 Mark Allocation
-\end{itemize}
-\subsubsection{Nice-To-Have}
 
+\subsubsection{Nice-To-Have}
+\begin{itemize}
+  \item 2.3 customizeInterface
+  \item 2.2 summarizeThreads
+\end{itemize}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 2.1 User must be a registered with the university
+  \item 2.2 User must no longer be a student at the university
+  \item 2.3 User must be of a specific status level(authority)
+  \item 2.4 User must be of a specific status level(authority)
+\end{itemize}
+
+\subsubsection{Post-Conditions}%POST CONDITIONS	
+\begin{itemize}
+  \item 2.1 Account must exist
+  \item 2.2 User account should be deleted along with all activities associated with it
+  \item 2.3 Posts should be moved around and changes be visible
+  \item 2.4 Summaries of threads should be created
+\end{itemize}
+\subsection{Required functionality} 
+\includegraphics[scale=.9]{Shaun/graphics/useCaseAdminManagement.eps}\\
+
+\subsection{Process specifications}
+\subsubsection{User Management}
+\includegraphics[scale=.9]{Shaun/graphics/activityAdminManagement.eps}\\
+
+
+%Threads
+\section{Threads}
+
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 3.1 createRootThread
+  \item 3.1.1 createSubThread
+  \item 3.2 deleteThreads
+  \item 3.2.1 archiveThreads
+  \item 3.3 updateThreads
+  \item 3.4 readThreads
+\end{itemize}
+\subsubsection{Important}
+ \begin{itemize}
+  \item 3.5 Read Tracking
+ \end{itemize}
 
 \subsection{Use case/Services contracts}
 \subsubsection{Pre-Conditions}								%PRE CONDITIONS
 \begin{itemize}
-  \item 4.1 Must be logged in
+  \item 3.1 a) User must be logged into the system to create root threads
+  \item 3.2 a) Thread must be read from database before it can be deleted
+  \item 3.2.1 a) Thread must be deleted before it can be archived
+  \item 3.3 a) User must be logged into the system to update the database
+  \item     b) Before the database can be updated values must be changed
+  \item 3.4 a) User must be logged into the system to read values from database
+  \item 3.5 a) User must be logged into the system to see unread mesassages in bold
+\end{itemize}
+
+\subsubsection{Post-Conditions}								%POST CONDITIONS	
+\begin{itemize}
+\item 3.1 a) All threads will be visible to users who are logged into the system
+\item     b) Threads will exist in database
+\item 3.2 a) Threads will be acrhived.
+\item     b) Threads will not be visible to users
+\item 3.3 a) Updated threads will be visible
+\item 3.5 a) Thread is marked as unread
+\end{itemize}
+
+\subsection{Required functionality} 
+\includegraphics[scale=.9]{Renaldo/useCaseThreads.eps}\\
+
+\subsection{Process specifications}
+\subsubsection{Create Threads}
+\includegraphics[scale=.9]{Renaldo/activityDiagramCreateThread.eps}\\
+
+\subsubsection{Delete Threads}
+\includegraphics[scale=.9]{Renaldo/activityDiagramDeleteThreads.eps}\\
+
+\subsubsection{Read Threads}
+\includegraphics[scale=.9]{Andreas/activityDiagramReadThreads.eps}\\
+
+\subsubsection{Read Tracking}
+\includegraphics[scale=.9]{Andreas/stateDiagramreadTracking.eps}\\
+
+\section{User Ranking}
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 4.1 ratePost
+  \item 4.3 manageUserRanking
+\end{itemize}
+
+\subsection{Important}
+\begin{itemize}
+  \item 4.2 markAllocation
+\end{itemize}
+
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+ \item 4.1 Must be logged in
   \item 4.2 Must be logged in and also a lecturer or TA
   \item 4.3 Must be logged in and also a lecturer or TA
 \end{itemize}
@@ -110,8 +202,8 @@
 \subsubsection{Post-Conditions}%POST CONDITIONS	
 \begin{itemize}
   \item 4.1 Post is rated
-  \item 4.2 Must be logged in and also a lecturer or TA
-  \item 4.3 Must be logged in and also a lecturer or TA
+  \item 4.2 Student marks are allocated and status level changes accordingly
+  \item 4.3 Students are ranked accordingly
 \end{itemize}
 
 \subsection{Required functionality} 
@@ -126,5 +218,47 @@
 
 \subsubsection{Manage Ranking}
 \includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramManageRanking.eps}\\
+
+
+
+\section{Social Tagging}
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 5.1 createATtag
+  \item 5.3 deleteTag
+\end{itemize}
+
+\subsubsection{Important}
+\begin{itemize}
+  \item 5.2 searchTag
+  \item 5.4 updateTag
+  \item 5.5 viewTag
+\end{itemize}
+\subsubsection{Nice-To-Have}
+\begin{itemize}
+  \item notify
+\end{itemize}
+
+
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 5.1 User needs to be registered for the buzz space to be able to create tags
+\end{itemize}
+
+\subsubsection{Post-Conditions}%POST CONDITIONS	
+\begin{itemize}
+  \item 5.1 User should be able to access and or search for posts
+\end{itemize}
+
+\subsection{Request and Results Data Structures} 
+\includegraphics[scale=.9]{Semaka/graphics/useCaseSocialTagging.eps}\\
+
+\subsection{Process specifications}
+\subsubsection{Social Tagging}
+\includegraphics[scale=.9]{Semaka/graphics/activityDiagramSocialTagging.eps}\\
+\section{Domain Model} 
+\includegraphics[scale=.9]{Kgomotso/graphics/UMLDomainModel.eps}\\
 
 \end{document}
