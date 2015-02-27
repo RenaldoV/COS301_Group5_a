@@ -1,8 +1,12 @@
 \documentclass[hidelinks, 12pt, oneside]{article}
-\usepackage{bookmark}
 \usepackage{graphicx}
+\usepackage{bookmark}
+
+\usepackage{epsfig}
+\usepackage{epstopdf}
+
 \usepackage{hyperref}
-\graphicspath{{images/}}
+%\graphicspath{{}}
 \begin{document}
  
 %titlepage
@@ -11,8 +15,8 @@
 \begin{minipage}{0.75\linewidth}
     \centering
 %University logo
-    \includegraphics[width=13cm]{graphics/universityLogo.jpg}
-    \rule{0\linewidth}{0.15\linewidth}\par
+   % \includegraphics[width=13cm]{graphics/universityLogo.jpg}
+   % \rule{0\linewidth}{0.15\linewidth}\par
 
 %Thesis title
     {\uppercase{\Large COS301: Mini Project Phase 1\par}}
@@ -40,36 +44,49 @@
 \tableofcontents
 \newpage
 
-\section{Introduction}
+\section{User Management}
+
+\section{User Ranking}
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 4.1 Rate post
+  \item 4.3 Manage User Ranking
+\end{itemize}
+
+\subsubsection{Important}
+\begin{itemize}
+  \item 4.2 Mark Allocation
+\end{itemize}
+\subsubsection{Nice-To-Have}
 
 
-\section{Use Case Prioritization}
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 4.1 Must be logged in
+  \item 4.2 Must be logged in and also a lecturer or TA
+  \item 4.3 Must be logged in and also a lecturer or TA
+\end{itemize}
 
-\subsection{Critical}
-\begin{enumerate}
- \item createAccount
- \\  
- \item deleteAccount
-\end{enumerate}
-\subsection{Important}
-\begin{enumerate}
- \item createAccount
- \\  
- \item deleteAccount
-\end{enumerate}
-\subsection{Nice-To-Have}
-\begin{enumerate}
- \item createAccount
- \\  
- \item deleteAccount
-\end{enumerate}
-\section{Use Case/Service Contracts}
+\subsubsection{Post-Conditions}%POST CONDITIONS	
+\begin{itemize}
+  \item 4.1 Post is rated
+  \item 4.2 Must be logged in and also a lecturer or TA
+  \item 4.3 Must be logged in and also a lecturer or TA
+\end{itemize}
 
-\section{Required Functionality}
+\subsection{Request and Results Data Structures} 
+\includegraphics[scale=.9]{Kgomotso/graphics/useCaseUserRanking.eps}\\
 
-\subsubsection{Process Specification}
+\subsection{Process specifications}
+\subsubsection{Rating Post}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramRatingPost.eps}\\
 
-\section{Domain Model}
+\subsubsection{Mark Allocation}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramMarkAllocation.eps}\\
 
+\subsubsection{Manage Ranking}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramManageRanking.eps}\\
 
 \end{document}
