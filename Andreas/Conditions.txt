@@ -1,0 +1,33 @@
+Use case prioritization
+Critical
+
+3.1 createRootThread
+3.1.1 createSubThread
+3.2 deleteThreads
+3.2.1 archiveThreads
+3.3 updateThreads
+3.4 readThreads
+
+Important
+3.5 Read Tracking
+
+Nice-To-Have
+
+Pre-Conditions
+
+3.1 a) User must be logged into the system to create root threads
+3.2 a) Thread must be read from database before it can be deleted
+3.2.1 a) Thread must be deleted before it can be archived
+3.3 a) User must be logged into the system to update the database
+    b) Before the database can be updated values must be changed
+3.4 a) User must be logged into the system to read values from database
+3.5 a) User must be logged into the system to see unread mesassages in bold
+
+Post-Conditions
+
+3.1 a)All threads will be visible to users who are logged into the system
+    b)Threads will exist in database
+3.2 a)Threads will be acrhived.
+    b)Threads will not be visible to users
+3.3 a)Updated threads will be visible
+3.5 a)Thread is marked as unread
