@@ -49,94 +49,52 @@ GitHub\\
 \begin{document}
 \maketitle
 \tableofcontents
-\chapter{ Introduction}
+
 This document discusses the application functionality required by users (and other stakehodlers).\\
-\chapter{Searching and Filtering}
+\chapter{User Ranking}
 \section{Use case prioritization}
 \subsection{Critical}
-1.1 Search\\
-1.1.1 Search for student\\
-1.1.1.1 Search by name\\
-1.1.1.2 Search by student number\\
-1.1.2 Search for posts\\
-1.1.2.1 Search posts by title\\
+\begin{itemize}
+  \item 4.1 Rate post
+  \item 4.3 Manage User Ranking
+\end{itemize}
 
 \subsection{Important}
-1.2 Filter posts\\
-1.2.1 Filter by title\\
-1.2.2 Filter by module code\\
-
+\begin{itemize}
+  \item 4.2 Mark Allocation
+\end{itemize}
 \subsection{Nice-To-Have}
-1.2.3 Filter by user\\
-1.2.3 Filter by date\\
+
 
 \section{Use case/Services contracts}
 \subsection{Pre-Conditions}								%PRE CONDITIONS
-1.1	Search text is invalid\\
-1.1.1	Student does not exist in system\\
-1.1.1.1	Student of specified name does not exist in the system\\
-1.1.1.2	Student of specified student number does not exist in system\\
-1.1.2	Post does not exist\\
-1.1.2.1	Post of specified title does not exist\\
-\newline
-1.2	a) Criteria to filter is invalid\\
-b) No posts available to filter\\
-1.2.1	Invalid title specified\\
-1.2.2	Module code does not exist\\
-1.2.3	a) Incorrect user specified
-b) User does not exist\\
-1.2.4	a) Date incorrectly specified\\
-\subsection{Post-Conditions}%POST CONDITIONS	
-1.1	Search results returned\\
-1.1.1	Student details of student searched for are returned\\
-1.1.1.1	Student details of student number specified are returned\\
-1.1.2	Post searched for is returned\\
-1.1.2.1	Post of specified title is returned\\
-
-\section{Request and Results Data Structures} 
-\includegraphics[scale=.9]{graphics/searchAndFilterUseCase.eps}\\
-
-\section{Process specifications}
-\subsection{Search}
-\includegraphics[scale=.9]{graphics/searchActivityDiagram.eps}\\
-\subsection{Filter}
-\includegraphics[scale=.9]{graphics/filterActivityDiagram.eps}\\
-
-\section{Domain Model} 
-\includegraphics[scale=.9]{graphics/searchAndFilterUML.eps}\\
-
-\chapter{Rating}
-\section{Use case prioritization}
-\subsection{Critical}
-1.2	Rate\\
-1.1.1 Like comment\\
-1.1.2 Dislike comment\\
-1.1.3 Store rating\\
-
-\subsection{Important}
-
-\subsection{Nice-To-Have}
-
-\section{Use case/Services contracts}
-\subsection{Pre-Conditions}								%PRE CONDITIONS
-1.2	User not logged in\\
-1.1.1 Post does not exist\\
-1.1.2 Post does not exist\\
-1.1.3 Rating invalid\\
+\begin{itemize}
+  \item 4.1 Must be logged in
+  \item 4.2 Must be logged in and also a lecturer or TA
+  \item 4.3 Must be logged in and also a lecturer or TA
+\end{itemize}
 
 \subsection{Post-Conditions}%POST CONDITIONS	
-1.2	User not logged in\\
-1.1.1 Post does not exist\\
-1.1.2 Post does not exist\\
-1.1.2 Rating invalid\\
+\begin{itemize}
+  \item 4.1 Post is rated
+  \item 4.2 Must be logged in and also a lecturer or TA
+  \item 4.3 Must be logged in and also a lecturer or TA
+\end{itemize}
 
 \section{Request and Results Data Structures} 
-\includegraphics[scale=.9]{graphics/rateUseCase.eps}\\
+\includegraphics[scale=.9]{Kgomotso/graphics/useCaseUserRanking.eps}\\
 
 \section{Process specifications}
-\includegraphics[scale=.9]{graphics/rateActivityDiagram.eps}\\
+\subsection{Rating Post}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramRatingPost.eps}\\
+
+\subsection{Mark Allocation}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramMarkAllocation.eps}\\
+
+\subsection{Manage Ranking}
+\includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramManageRanking.eps}\\
 
 \section{Domain Model} 
-\includegraphics[scale=.9]{graphics/rateUML.eps}\\	
+
 % add other chapters and sections to suit
 \end{document}
