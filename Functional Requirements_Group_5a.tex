@@ -1,11 +1,11 @@
 \documentclass[hidelinks, 12pt, oneside]{article}
 \usepackage{graphicx}
 \usepackage{bookmark}
-
+\usepackage{hyperref}
 \usepackage{epsfig}
 \usepackage{epstopdf}
 
-\usepackage{hyperref}
+
 %\graphicspath{{}}
 \begin{document}
  
@@ -15,8 +15,8 @@
 \begin{minipage}{0.75\linewidth}
     \centering
 %University logo
-   % \includegraphics[width=13cm]{graphics/universityLogo.jpg}
-   % \rule{0\linewidth}{0.15\linewidth}\par
+    \includegraphics[width=13cm]{Shaun/graphics/universityLogo.jpg}
+    \rule{0\linewidth}{0.15\linewidth}\par
 
 %Thesis title
     {\uppercase{\Large COS301: Mini Project Phase 1\par}}
@@ -34,7 +34,7 @@
     
     \vspace{1cm}
     
-    \hyperref[https://github.com/RenaldoV/COS301_Group5_a]{Github}\par
+    \href{https://github.com/RenaldoV/COS301_Group5_a}{GitHub link}
     \vspace{1cm}
 	
 \end{minipage}
@@ -119,7 +119,7 @@
 
 \subsection{Process specifications}
 \subsubsection{User Management}
-\includegraphics[scale=.9]{Shaun/graphics/activityAdminManagement.eps}\\
+\includegraphics[scale=.9]{Sbo/activityDiagramAdminManagement.eps}\\
 
 
 %Threads
@@ -139,6 +139,9 @@
  \begin{itemize}
   \item 3.5 Read Tracking
  \end{itemize}
+
+\subsubsection{Nice-To-Have}
+
 
 \subsection{Use case/Services contracts}
 \subsubsection{Pre-Conditions}								%PRE CONDITIONS
@@ -219,8 +222,6 @@
 \subsubsection{Manage Ranking}
 \includegraphics[scale=.9]{Kgomotso/graphics/activityDiagramManageRanking.eps}\\
 
-
-
 \section{Social Tagging}
 \subsection{Use case prioritization}
 \subsubsection{Critical}
@@ -258,7 +259,52 @@
 \subsection{Process specifications}
 \subsubsection{Social Tagging}
 \includegraphics[scale=.9]{Semaka/graphics/activityDiagramSocialTagging.eps}\\
+
+%Reporting
+\section{Reporting}
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 6.1 viewReports
+  \item 6.2 notifications
+\end{itemize}
+
+\subsubsection{Important}
+\begin{itemize}
+  \item 6.3 plagiarism
+  \item 6.4 netiquette
+  \item 6.5 systemFailure
+\end{itemize}
+\subsubsection{Nice-To-Have}
+\begin{itemize}
+  \item 
+\end{itemize}
+
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 6.1 Internet connection and a database required.
+  \item 6.2 Must have logged in to be able to access your notifications.
+  \item 6.3 System must be running, so to generated updated reports.
+
+\end{itemize}
+
+\subsubsection{Post-Conditions}%POST CONDITIONS	
+\begin{itemize}
+  \item 6.1 System publishes reports to users, on request or when necessary.
+  \item 6.2 Activity blog, see what got updated and by who and so forth.
+  \item 6.3 Logged in users will be able to see their PLAGIARISM STATUS and if their post comfrom with NETIQUETTE rules
+\end{itemize}
+
+\subsection{Request and Results Data Structures} 
+\includegraphics[scale=.9]{Hlavutelo/graphics/useCaseReporting.eps}\\
+
+\subsection{Process specifications}
+\includegraphics[scale=.9]{Hlavutelo/graphics/activityDiagramReporting.eps}\\
+
 \section{Domain Model} 
 \includegraphics[scale=.9]{Kgomotso/graphics/UMLDomainModel.eps}\\
 
+\section{ High Level Use Case Diagram} 
+\includegraphics[scale=.9]{Shaun/graphics/useCasesHighLevelOverview.eps}\\
 \end{document}

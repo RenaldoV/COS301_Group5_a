@@ -1,0 +1,96 @@
+\documentclass{scrreprt}
+\usepackage[bookmarks=true]{hyperref}
+\usepackage{tabto}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\hypersetup{%
+    pdftitle={Functional Requirement Specification},    % title
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=blue,       % color of internal links
+    citecolor=black,       % color of links to bibliography
+    filecolor=black,        % color of file links
+    urlcolor=purple,        % color of external links
+    linktoc=page            % only page is linked
+}
+\title
+{%
+\author
+{
+Khathutshelo Matidza 11072157\\
+\and
+Renaldo van Dyk 12204359\\
+\and
+Andreas du Preez 12207871\\
+\and
+Sean Hill 12221458\\
+\and
+Kgomotso Sito 12243273\\
+\and
+Hlavutelo Maluleke 12318109\\
+\and
+Sboniso Masilela 10416260\\
+\and
+Semaka Malapane 13081129\\
+}	
+\centering
+%\includegraphics[scale=.9]{graphics/universityLogo.jpg}\\
+\vspace{2cm}
+\huge{COS301: Mini Project-Phase 1\\Functional Requirements}\\
+\vspace{2cm}
+Buzz System\\
+\vspace{2cm}
+GitHub\\
+\LARGE\texttt{https://github.com/RenaldoV/COS301\_Group5\_a}
+\vfill
+\vspace{1cm}
+\rule{15cm}{2pt}
+}
+\date
+{}
+\usepackage{hyperref}
+\begin{document}
+\maketitle
+\tableofcontents
+\chapter{Introduction}
+The Computer Science Education Didactic and Applications Research (CSEDAR) team of the Computer Science Department of the University of Pretoria have registered a research project called “The use of Online Discussions in Teaching (TODT)”. The aims of this research is to ?nd ways to enhance teaching and improve the learning of students through the use of online discussions. The formation of collaborative communities within student groups has become essential to enhance education. The existence of a forum in which students can express their views and explore what they are learning results in creating a collaborative community in which students can excel. We are faced with the problem of engaging an extremely large number of ?rst year students. Engaging ?rst year students is a di?cult and well-recognised problem, since students tend to feel part of an anonymous mass. As part of the TODT project as a whole, the aim of this COS 301 project is to create an online space where students, teaching assistants and lecturers can engage in activities related to learning the content of our module while applying game concepts to motivate students to increase the quality of their participation and consequently experience deeper learning of the course content.
+\\
+\chapter{Use Case Prioritization: Reporting}
+
+\section{Critical}
+6.1 Notification\\
+6.2 View Reports\\
+\section{Important}
+6.1 Plagiarism\\
+6.2 Netiquette\\
+6.3 System failure\\
+\section{Nice-To-Have}
+6.1 Feedback even when system admin is not online.\\
+
+\chapter{Use Case/Services Contracts: Reporting}
+\NumTabs{18}
+
+\section{Pre-Conditions}								%PRE CONDITIONS
+6.1\tab{a) Internet connection and a database required.}\\
+6.2\tab{b) Must have logged in to be able to access your notifications.}\\
+6.3\tab{c) System must be running, so to generated updated reports.}\\
+
+\section{Post-Conditions}								%POST CONDITIONS	
+6.1\tab{a) System publishes reports to users, on request or when necessary.}\\
+6.2\tab{b) Logged in users will be able to see their PLAGIARISM STATUS and if their post comfrom with NETIQUETTE rules.}\\
+6.3\tab{a) Activity blog, see what got updated and by who and so forth. (Done by system)}\\
+
+\section{Request and Results Data Structures} 
+\NumTabs{18}
+\chapter{Required Functionality: Reporting}
+\includegraphics[scale=.9]{graphics/useCaseReporting.eps}\\
+
+\chapter{Process Specifications: Reporting}
+\includegraphics[scale=.9]{graphics/activityDiagramReporting.eps}\\
+
+\chapter{Domain Model}
+\NumTabs{18}
+
+\chapter{High Level Overview}
+%\includegraphics[scale=.9]{graphics/useCasesHighLevelOverview.eps}\\
+
+\end{document}

@@ -1,0 +1,9 @@
+Conditions:
+	Pre-conditions:
+		-> Internet connection and a database required.
+		-> Must have logged in to be able to access your notifications.
+		-> System must be running, so to generated updated reports.
+	Post-conditions:
+		-> System publishes reports to users, on request or when necessary.
+		-> Logged in users will be able to see their "PLAGIARISM STATUS" and if their post comfrom with "NETIQUETTE" rules.
+		-> Activity blog, see what got updated and by who and so forth. (Done by system)

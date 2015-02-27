@@ -1,0 +1,10 @@
+Use Case Priorities:
+	Critical:
+		-> Notification
+		-> View Reports
+	Important:
+		-> Plagiarism
+		-> Netiquette
+		-> System failure
+	Nice-To-Have:
+		-> Feedback even when system admin is not online.
