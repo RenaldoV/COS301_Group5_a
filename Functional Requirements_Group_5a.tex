@@ -45,6 +45,44 @@
 \newpage
 
 \section{User Management}
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 1.1 updateAccountInformation
+  \item 1.2 viewProfile
+  \item 1.3 logIn
+  \item 1.4 logOut
+\end{itemize}
+
+\subsubsection{Important}
+\begin{itemize}
+  \item 1.5 directMessage
+\end{itemize}
+\subsubsection{Nice-To-Have}
+
+
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 1.1 New information must be valid.
+  \item 1.4 User must be logged in.
+  \item 1.5a User must have a message.
+  \item 1.5b User must have (a) valid recipient(s).
+\end{itemize}
+
+\subsubsection{Post-Conditions}%POST CONDITIONS	
+\begin{itemize}
+  \item 1.1 Information is updated on database.
+  \item 1.4 User is logged out.
+  \item 1.5 (The) recipient(s) recieve message.
+\end{itemize}
+
+\subsection{Required functionality} 
+\includegraphics[scale=.9]{Sean/useCaseUserManagement.eps}\\
+
+\subsection{Process specifications}
+\subsubsection{User Management}
+\includegraphics[scale=.9]{Sean/activityDiagramUserManagement.eps}\\
 
 \section{User Ranking}
 \subsection{Use case prioritization}
@@ -76,7 +114,7 @@
   \item 4.3 Must be logged in and also a lecturer or TA
 \end{itemize}
 
-\subsection{Request and Results Data Structures} 
+\subsection{Required functionality} 
 \includegraphics[scale=.9]{Kgomotso/graphics/useCaseUserRanking.eps}\\
 
 \subsection{Process specifications}
