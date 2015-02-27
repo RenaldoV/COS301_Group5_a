@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  27 FEB 2015 16:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  27 FEB 2015 16:30
 entering extended mode
 **C:/Users/RONNIE/Desktop/TUKS/COS*301/COS301_Group5_a/COS301_Group5_a/Function
 al*Requirements_Group_5a.tex
@@ -305,8 +305,8 @@ eps-converted-to.pdf Sean/useCaseUserManagement.eps>
 (epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
-<Sean/useCaseUserManagement-eps-converted-to.pdf, id=98, 557.08125pt x 557.0812
-5pt>
+<Sean/useCaseUserManagement-eps-converted-to.pdf, id=116, 557.08125pt x 557.081
+25pt>
 File: Sean/useCaseUserManagement-eps-converted-to.pdf Graphic file (type pdf)
  <use Sean/useCaseUserManagement-eps-converted-to.pdf>
 Package pdftex.def Info: Sean/useCaseUserManagement-eps-converted-to.pdf used o
@@ -335,7 +335,7 @@ agement-eps-converted-to.pdf Sean/activityDiagramUserManagement.eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 
-<Sean/activityDiagramUserManagement-eps-converted-to.pdf, id=104, 557.08125pt x
+<Sean/activityDiagramUserManagement-eps-converted-to.pdf, id=122, 557.08125pt x
  334.24875pt>
 File: Sean/activityDiagramUserManagement-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -370,7 +370,7 @@ Management-eps-converted-to.pdf Shaun/graphics/useCaseAdminManagement.eps>
 (epstopdf)             \includegraphics on input line 118.
 Package epstopdf Info: Output file is already uptodate.
 
-<Shaun/graphics/useCaseAdminManagement-eps-converted-to.pdf, id=174, 557.08125p
+<Shaun/graphics/useCaseAdminManagement-eps-converted-to.pdf, id=192, 557.08125p
 t x 336.25626pt>
 File: Shaun/graphics/useCaseAdminManagement-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -403,7 +403,7 @@ nManagement-eps-converted-to.pdf Shaun/graphics/activityAdminManagement.eps>
 (epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
-<Shaun/graphics/activityAdminManagement-eps-converted-to.pdf, id=180, 557.08125
+<Shaun/graphics/activityAdminManagement-eps-converted-to.pdf, id=198, 557.08125
 pt x 346.29375pt>
 File: Shaun/graphics/activityAdminManagement-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -423,7 +423,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 [8 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Shaun/
-graphics/useCaseAdminManagement-eps-converted-to.pdf>]
+graphics/useCaseAdminManagement-eps-converted-to.pdf>] [9 <C:/Users/RONNIE/Desk
+top/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Shaun/graphics/activityAdminMa
+nagement-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Renaldo/useCaseThreads.eps>
 (epstopdf)                    date: 2015-02-27 13:38:45
 (epstopdf)                    size: 49222 bytes
@@ -433,28 +435,27 @@ f>
 (epstopdf)                    size: 17223 bytes
 (epstopdf)             Command: <epstopdf --outfile=Renaldo/useCaseThreads-eps-
 converted-to.pdf Renaldo/useCaseThreads.eps>
-(epstopdf)             \includegraphics on input line 133.
+(epstopdf)             \includegraphics on input line 169.
 Package epstopdf Info: Output file is already uptodate.
 
-<Renaldo/useCaseThreads-eps-converted-to.pdf, id=210, 557.08125pt x 416.55624pt
+<Renaldo/useCaseThreads-eps-converted-to.pdf, id=244, 557.08125pt x 416.55624pt
 >
 File: Renaldo/useCaseThreads-eps-converted-to.pdf Graphic file (type pdf)
  <use Renaldo/useCaseThreads-eps-converted-to.pdf>
 Package pdftex.def Info: Renaldo/useCaseThreads-eps-converted-to.pdf used on in
-put line 133.
+put line 169.
 (pdftex.def)             Requested size: 501.3685pt x 374.89716pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 133--134
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 169--170
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
-[9 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Shaun/
-graphics/activityAdminManagement-eps-converted-to.pdf>]
+[10]
 Package epstopdf Info: Source file: <Renaldo/activityDiagramCreateThread.eps>
 (epstopdf)                    date: 2015-02-27 13:38:45
 (epstopdf)                    size: 48212 bytes
@@ -464,28 +465,28 @@ nverted-to.pdf>
 (epstopdf)                    size: 15922 bytes
 (epstopdf)             Command: <epstopdf --outfile=Renaldo/activityDiagramCrea
 teThread-eps-converted-to.pdf Renaldo/activityDiagramCreateThread.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 173.
 Package epstopdf Info: Output file is already uptodate.
 
-<Renaldo/activityDiagramCreateThread-eps-converted-to.pdf, id=227, 557.08125pt 
+<Renaldo/activityDiagramCreateThread-eps-converted-to.pdf, id=249, 557.08125pt 
 x 380.42125pt>
 File: Renaldo/activityDiagramCreateThread-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Renaldo/activityDiagramCreateThread-eps-converted-to.pdf>
 Package pdftex.def Info: Renaldo/activityDiagramCreateThread-eps-converted-to.p
-df used on input line 137.
+df used on input line 173.
 (pdftex.def)             Requested size: 501.3685pt x 342.37595pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 137--138
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 173--174
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[10 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renal
+[11 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renal
 do/useCaseThreads-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Renaldo/activityDiagramDeleteThreads.eps>
 (epstopdf)                    date: 2015-02-27 13:38:45
@@ -496,32 +497,96 @@ onverted-to.pdf>
 (epstopdf)                    size: 15677 bytes
 (epstopdf)             Command: <epstopdf --outfile=Renaldo/activityDiagramDele
 teThreads-eps-converted-to.pdf Renaldo/activityDiagramDeleteThreads.eps>
-(epstopdf)             \includegraphics on input line 140.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
 
-<Renaldo/activityDiagramDeleteThreads-eps-converted-to.pdf, id=267, 557.08125pt
+<Renaldo/activityDiagramDeleteThreads-eps-converted-to.pdf, id=289, 557.08125pt
  x 360.34625pt>
 File: Renaldo/activityDiagramDeleteThreads-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use Renaldo/activityDiagramDeleteThreads-eps-converted-to.pdf>
 Package pdftex.def Info: Renaldo/activityDiagramDeleteThreads-eps-converted-to.
-pdf used on input line 140.
+pdf used on input line 176.
 (pdftex.def)             Requested size: 501.3685pt x 324.30862pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 140--141
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 176--177
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-[11 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renal
-do/activityDiagramCreateThread-eps-converted-to.pdf>] [12 <C:/Users/RONNIE/Desk
-top/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renaldo/activityDiagramDeleteT
-hreads-eps-converted-to.pdf>]
+[12 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renal
+do/activityDiagramCreateThread-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Andreas/activityDiagramReadThreads.eps>
+(epstopdf)                    date: 2015-02-27 13:16:30
+(epstopdf)                    size: 49879 bytes
+(epstopdf)             Output file: <Andreas/activityDiagramReadThreads-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2015-02-27 16:30:22
+(epstopdf)                    size: 17507 bytes
+(epstopdf)             Command: <epstopdf --outfile=Andreas/activityDiagramRead
+Threads-eps-converted-to.pdf Andreas/activityDiagramReadThreads.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+
+<Andreas/activityDiagramReadThreads-eps-converted-to.pdf, id=326, 557.08125pt x
+ 388.45125pt>
+File: Andreas/activityDiagramReadThreads-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Andreas/activityDiagramReadThreads-eps-converted-to.pdf>
+Package pdftex.def Info: Andreas/activityDiagramReadThreads-eps-converted-to.pd
+f used on input line 179.
+(pdftex.def)             Requested size: 501.3685pt x 349.60287pt.
+
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 179--180
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+[13 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Renal
+do/activityDiagramDeleteThreads-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Andreas/stateDiagramreadTracking.eps>
+(epstopdf)                    date: 2015-02-27 13:11:06
+(epstopdf)                    size: 41706 bytes
+(epstopdf)             Output file: <Andreas/stateDiagramreadTracking-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-02-27 16:30:27
+(epstopdf)                    size: 11871 bytes
+(epstopdf)             Command: <epstopdf --outfile=Andreas/stateDiagramreadTra
+cking-eps-converted-to.pdf Andreas/stateDiagramreadTracking.eps>
+(epstopdf)             \includegraphics on input line 182.
+Package epstopdf Info: Output file is already uptodate.
+
+<Andreas/stateDiagramreadTracking-eps-converted-to.pdf, id=364, 557.08125pt x 2
+57.96375pt>
+File: Andreas/stateDiagramreadTracking-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Andreas/stateDiagramreadTracking-eps-converted-to.pdf>
+Package pdftex.def Info: Andreas/stateDiagramreadTracking-eps-converted-to.pdf 
+used on input line 182.
+(pdftex.def)             Requested size: 501.3685pt x 232.1652pt.
+
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 182--183
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[14 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Andre
+as/activityDiagramReadThreads-eps-converted-to.pdf>] [15 <C:/Users/RONNIE/Deskt
+op/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Andreas/stateDiagramreadTrackin
+g-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Kgomotso/graphics/useCaseUserRanking.eps>
 (epstopdf)                    date: 2015-02-27 13:38:45
 (epstopdf)                    size: 43341 bytes
@@ -531,25 +596,25 @@ onverted-to.pdf>
 (epstopdf)                    size: 13121 bytes
 (epstopdf)             Command: <epstopdf --outfile=Kgomotso/graphics/useCaseUs
 erRanking-eps-converted-to.pdf Kgomotso/graphics/useCaseUserRanking.eps>
-(epstopdf)             \includegraphics on input line 175.
+(epstopdf)             \includegraphics on input line 215.
 Package epstopdf Info: Output file is already uptodate.
 
-<Kgomotso/graphics/useCaseUserRanking-eps-converted-to.pdf, id=340, 557.08125pt
+<Kgomotso/graphics/useCaseUserRanking-eps-converted-to.pdf, id=432, 557.08125pt
  x 257.96375pt>
 File: Kgomotso/graphics/useCaseUserRanking-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use Kgomotso/graphics/useCaseUserRanking-eps-converted-to.pdf>
 Package pdftex.def Info: Kgomotso/graphics/useCaseUserRanking-eps-converted-to.
-pdf used on input line 175.
+pdf used on input line 215.
 (pdftex.def)             Requested size: 501.3685pt x 232.1652pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 175--176
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 215--216
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
@@ -564,29 +629,29 @@ t-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=Kgomotso/graphics/activityD
 iagramRatingPost-eps-converted-to.pdf Kgomotso/graphics/activityDiagramRatingPo
 st.eps>
-(epstopdf)             \includegraphics on input line 179.
+(epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
 
-<Kgomotso/graphics/activityDiagramRatingPost-eps-converted-to.pdf, id=341, 557.
+<Kgomotso/graphics/activityDiagramRatingPost-eps-converted-to.pdf, id=433, 557.
 08125pt x 362.35374pt>
 File: Kgomotso/graphics/activityDiagramRatingPost-eps-converted-to.pdf Graphic 
 file (type pdf)
 
 <use Kgomotso/graphics/activityDiagramRatingPost-eps-converted-to.pdf>
 Package pdftex.def Info: Kgomotso/graphics/activityDiagramRatingPost-eps-conver
-ted-to.pdf used on input line 179.
+ted-to.pdf used on input line 219.
 (pdftex.def)             Requested size: 501.3685pt x 326.11536pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 179--180
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 219--220
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
-[13 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
+[16 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
 tso/graphics/useCaseUserRanking-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Kgomotso/graphics/activityDiagramMarkAlloc
 ation.eps>
@@ -599,29 +664,29 @@ ation-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=Kgomotso/graphics/activityD
 iagramMarkAllocation-eps-converted-to.pdf Kgomotso/graphics/activityDiagramMark
 Allocation.eps>
-(epstopdf)             \includegraphics on input line 182.
+(epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 
-<Kgomotso/graphics/activityDiagramMarkAllocation-eps-converted-to.pdf, id=370, 
+<Kgomotso/graphics/activityDiagramMarkAllocation-eps-converted-to.pdf, id=461, 
 557.08125pt x 352.31625pt>
 File: Kgomotso/graphics/activityDiagramMarkAllocation-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use Kgomotso/graphics/activityDiagramMarkAllocation-eps-converted-to.pdf>
 Package pdftex.def Info: Kgomotso/graphics/activityDiagramMarkAllocation-eps-co
-nverted-to.pdf used on input line 182.
+nverted-to.pdf used on input line 222.
 (pdftex.def)             Requested size: 501.3685pt x 317.08168pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 182--183
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 222--223
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
-[14 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
+[17 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
 tso/graphics/activityDiagramRatingPost-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Kgomotso/graphics/activityDiagramManageRan
 king.eps>
@@ -634,50 +699,50 @@ king-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=Kgomotso/graphics/activityD
 iagramManageRanking-eps-converted-to.pdf Kgomotso/graphics/activityDiagramManag
 eRanking.eps>
-(epstopdf)             \includegraphics on input line 185.
+(epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
 
-<Kgomotso/graphics/activityDiagramManageRanking-eps-converted-to.pdf, id=403, 5
+<Kgomotso/graphics/activityDiagramManageRanking-eps-converted-to.pdf, id=494, 5
 57.08125pt x 354.32375pt>
 File: Kgomotso/graphics/activityDiagramManageRanking-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use Kgomotso/graphics/activityDiagramManageRanking-eps-converted-to.pdf>
 Package pdftex.def Info: Kgomotso/graphics/activityDiagramManageRanking-eps-con
-verted-to.pdf used on input line 185.
+verted-to.pdf used on input line 225.
 (pdftex.def)             Requested size: 501.3685pt x 318.88841pt.
 
-Overfull \hbox (111.3685pt too wide) in paragraph at lines 185--186
+Overfull \hbox (111.3685pt too wide) in paragraph at lines 225--226
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-[15 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
+[18 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgomo
 tso/graphics/activityDiagramMarkAllocation-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
- [16 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgom
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+ [19 <C:/Users/RONNIE/Desktop/TUKS/COS 301/COS301_Group5_a/COS301_Group5_a/Kgom
 otso/graphics/activityDiagramManageRanking-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
 
 ("C:\Users\RONNIE\Desktop\TUKS\COS 301\COS301_Group5_a\COS301_Group5_a\Function
 al Requirements_Group_5a.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 227.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 227.
  ) 
 Here is how much of TeX's memory you used:
- 5529 strings out of 493921
- 85406 string characters out of 3147279
+ 5561 strings out of 493921
+ 86173 string characters out of 3147279
  162979 words of memory out of 3000000
- 8712 multiletter control sequences out of 15000+200000
+ 8729 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  35i,5n,30p,334b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -685,10 +750,10 @@ Here is how much of TeX's memory you used:
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Functional Requirements_Group_5a.pdf" (16 pages, 231957 byte
+Output written on "Functional Requirements_Group_5a.pdf" (19 pages, 266301 byte
 s).
 PDF statistics:
- 634 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 368 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 755 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 450 words of extra memory for PDF output out of 10000 (max. 10000000)
 

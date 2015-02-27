@@ -125,9 +125,45 @@
 %Threads
 \section{Threads}
 
+\subsection{Use case prioritization}
+\subsubsection{Critical}
+\begin{itemize}
+  \item 3.1 createRootThread
+  \item 3.1.1 createSubThread
+  \item 3.2 deleteThreads
+  \item 3.2.1 archiveThreads
+  \item 3.3 updateThreads
+  \item 3.4 readThreads
+\end{itemize}
+\subsection{Important}
+ \begin{itemize}
+  \item 3.5 Read Tracking
+ \end{itemize}
+
+\subsubsection{Nice-To-Have}
 
 
+\subsection{Use case/Services contracts}
+\subsubsection{Pre-Conditions}								%PRE CONDITIONS
+\begin{itemize}
+  \item 3.1 a) User must be logged into the system to create root threads
+  \item 3.2 a) Thread must be read from database before it can be deleted
+  \item 3.2.1 a) Thread must be deleted before it can be archived
+  \item 3.3 a) User must be logged into the system to update the database
+  \item     b) Before the database can be updated values must be changed
+  \item 3.4 a) User must be logged into the system to read values from database
+  \item 3.5 a) User must be logged into the system to see unread mesassages in bold
+\end{itemize}
 
+\subsubsection{Post-Conditions}								%POST CONDITIONS	
+\begin{itemize}
+\item 3.1 a) All threads will be visible to users who are logged into the system
+\item     b) Threads will exist in database
+\item 3.2 a) Threads will be acrhived.
+\item     b) Threads will not be visible to users
+\item 3.3 a) Updated threads will be visible
+\item 3.5 a) Thread is marked as unread
+\end{itemize}
 
 \subsection{Required functionality} 
 \includegraphics[scale=.9]{Renaldo/useCaseThreads.eps}\\
@@ -139,7 +175,11 @@
 \subsubsection{Delete Threads}
 \includegraphics[scale=.9]{Renaldo/activityDiagramDeleteThreads.eps}\\
 
+\subsubsection{Read Threads}
+\includegraphics[scale=.9]{Andreas/activityDiagramReadThreads.eps}\\
 
+\subsubsection{Read Tracking}
+\includegraphics[scale=.9]{Andreas/stateDiagramreadTracking.eps}\\
 
 \section{User Ranking}
 \subsection{Use case prioritization}
